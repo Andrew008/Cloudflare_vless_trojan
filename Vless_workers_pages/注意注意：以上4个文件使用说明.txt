@@ -1,11 +1,12 @@
 文件说明：
 1、_worker.js明文文件：不可用
-2、_worker.js混淆文件：可用 (proxyip可自定义，proxyip失效将无法访问推特X、Chatgpt等CF类网站)
+2、_worker.js混淆文件：可用 (proxyip默认可用，也可自定义，proxyip失效将无法访问推特X、Chatgpt等CF类网站)
 3、nat64套壳版明文文件：不可用
-4、nat64套壳版混淆文件：可用 (自带nat64自动转换proxyip，可以访问推特X、Chatgpt等CF类网站，不支持自定义proxyip)
+4、nat64套壳版混淆文件：不可用
 
 
-nat64即将枯竭，请使用文件2不带proxyip的脚本，自行添加proxyip
+请使用文件2，直接上传即可使用，无需其他复杂设置
+
 25.9.8更新视频教程：半混淆文件使用说明；解决你对优选IP的长期困惑；本轮1101报错的未来警示：https://youtu.be/rUpCuXTQqmQ
 
 目前推荐使用2与4的半混淆文件，文件开头可直接修改uuid与proxyip，如pages部署，请把文件名改为_worker文件类型为js
